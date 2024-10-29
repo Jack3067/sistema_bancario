@@ -2,7 +2,7 @@
 
 ## Interação usando o terminal 
 
-## Munu
+## Menu
 ![image](https://github.com/user-attachments/assets/00778c9f-9228-4f42-b31f-79c3fca796ce)
 
 ## Depositar 
